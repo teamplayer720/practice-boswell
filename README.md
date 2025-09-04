@@ -1,6 +1,10 @@
  #    Christian Boswell
 
 ###    favorite tv show is Andor
-====
-    I like this show because of how it follows the 
-    Star Wars story of Rouge One
+
+
+    I like this show because of how it follows a side story called
+
+   Rouge One. This show helps fill in the gaps left before Rouge one and 
+
+   help establish the main story even more. 
