@@ -3,8 +3,8 @@
 ###    favorite tv show is Andor
 
 
-    I like this show because of how it follows a side story called
+I like this show because of how it follows a side story called
 
-   Rouge One. This show helps fill in the gaps left before Rouge one and 
+Rouge One. This show helps fill in the gaps left before Rouge one and 
 
-   help establish the main story even more. 
+help establish the main story even more. 
