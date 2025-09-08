@@ -12,3 +12,16 @@ help establish the main story even more. I also like this show because of the
 sound design. The way they follow the main themes from **Star Wars**, and mix it within
 
 the,main music gives it such a unique feel. 
+
+----
+
+###    Favorite Actors from the Show
+1. Diego Luna
+2. Elizabeth Dulau
+3. Stellen Skarsgard
+
+####   Other shows I like
+- Code Geass
+- Ashoka
+- Attack on Titan
+   
