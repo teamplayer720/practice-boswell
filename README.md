@@ -20,7 +20,7 @@ the,main music gives it such a unique feel.
 2. Elizabeth Dulau
 3. Stellen Skarsgard
 
-####   Other shows I like
+####   Other shows I like:
 - Code Geass
 - Ashoka
 - Attack on Titan
