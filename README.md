@@ -26,4 +26,16 @@ the,main music gives it such a unique feel.
 - Attack on Titan
 
 [Activity](MyActivity.md) 
+
+---- 
+
+| Name | Reason| Birthdate | Death |
+|----------|----------|----------|----------|
+| Obama   | President | August 4th  | N/a |
+| Manuel Neuer   | Fav. player   | March 27th  | N/a  |
+|Kendrick Lamar    | Rapper  | June 17th  | N/a  |
+| Stephen Curry   | Basketball   | March 14th   | N/a |
+
+
+
    
