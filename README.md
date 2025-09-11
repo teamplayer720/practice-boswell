@@ -34,7 +34,15 @@ the,main music gives it such a unique feel.
 | Obama   | President | August 4th  | N/a |
 | Manuel Neuer   | Fav. player   | March 27th  | N/a  |
 |Kendrick Lamar    | Rapper  | June 17th  | N/a  |
-| Stephen Curry   | Basketball   | March 14th   | N/a |
+| Stephen Curry   | Basketball   | March 14th   | N/a | 
+
+----
+
+>*Yoda*
+>>"Do or do not. There is no try"
+
+>*Martin Luther King Jr.*
+>>"Injustice anywhere is a threat to justice everywhere."
 
 
 
