@@ -28,7 +28,7 @@ the,main music gives it such a unique feel.
 [Activity](MyActivity.md) 
 
 ---- 
-
+## Table
 | Name | Reason| Birthdate | Death |
 |----------|----------|----------|----------|
 | Obama   | President | August 4th  | N/a |
@@ -37,13 +37,15 @@ the,main music gives it such a unique feel.
 | Stephen Curry   | Basketball   | March 14th   | N/a | 
 
 ----
-
+## Quotes
 >*Yoda*
 >>"Do or do not. There is no try"
 
 >*Martin Luther King Jr.*
 >>"Injustice anywhere is a threat to justice everywhere."
 
+---- 
+## Code Fencing
 
 
    
